@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **leurat@logic-nest.me**
 
+- 🧾 You can find my portfolio in this link **leurat.vercel.app**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leurat-sherifi-b06628183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leurat-sherifi-b06628183" height="30" width="40" /></a>
