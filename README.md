@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **leurat@logic-nest.me**
 
-- 🧾 You can find my portfolio in this link **leurat.vercel.app**
+- 🧾 You can find my portfolio in this link [leurat.vercel.app](https://leurat.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
